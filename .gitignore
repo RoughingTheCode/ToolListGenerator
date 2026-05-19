@@ -1,0 +1,10 @@
+# Python Zwischenspeicher
+__pycache__/
+*.pyc
+
+# PyInstaller Ordner (die .exe Dateien)
+build/
+dist/
+*.spec
+*.exe
+_internal/
