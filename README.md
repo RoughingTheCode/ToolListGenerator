@@ -3,6 +3,13 @@
 
 > Erstellt eine Werkzeugliste anhand einer von der Maschine geladenen oder einer lokal geöffneten Datei. Optional können die Daten mit den in der Maschine vorhandenen Werkzeugen abgeglichen werden. Die Werte werden anschließend direkt in eine automatisch generierte Excel-Werkzeugliste eingetragen.
 
+<img width="688" height="767" alt="TLG_Programm_Bild" src="https://github.com/user-attachments/assets/712e2c6d-ffa0-44dd-917e-fe47cb6e291e" />
+
+<img width="681" height="762" alt="TLG_M_Einstellungen_Bild" src="https://github.com/user-attachments/assets/b9d90e7a-c30d-4d3c-a151-85672232a9f0" />
+
+<img width="676" height="756" alt="TLG_W_Einstellungen_Bild" src="https://github.com/user-attachments/assets/846c87e8-b612-4edc-af4b-a8d9907af16b" />
+
+
 ## Inhaltsverzeichnis
 
 - [Hinweis](#-hinweis)
