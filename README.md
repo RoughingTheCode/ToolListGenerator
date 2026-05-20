@@ -9,6 +9,9 @@
 
 <img width="676" height="756" alt="TLG_W_Einstellungen_Bild" src="https://github.com/user-attachments/assets/846c87e8-b612-4edc-af4b-a8d9907af16b" />
 
+<img width="759" height="326" alt="TLG_Excel" src="https://github.com/user-attachments/assets/d12b9356-6c56-475e-b29e-4279662b3a3a" />
+
+
 
 ## Inhaltsverzeichnis
 
